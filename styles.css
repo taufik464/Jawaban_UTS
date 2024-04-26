@@ -1,0 +1,178 @@
+.body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+.header main{
+    display: flex;
+}
+.poin1{
+    background-color: rgb(223, 226, 226);
+    width: 100%;
+    height: 400px;
+    padding: none;
+    float: left;
+    display: flex;
+    
+}
+.poin1 h1 {
+    position: relative;
+    top: 60px;
+    left: 80px;
+}
+
+.poin1 p {
+    position: relative;
+    top: 60px;
+    left: 80px; 
+    width: 300px;
+
+}
+
+.poin1 button {
+    position: relative;
+    top: 60px;
+    left: 80px; 
+}
+.poin1 img{
+    width: 34em;
+    height: 16em;
+    justify-content: space-between;
+    position: relative;
+    left: 300px;
+    top: 80px;
+    float: left;
+
+}
+.promo {
+    background-color: rgb(223, 226, 226);
+    width: 100%;
+    height: 250px;
+    padding: none;
+    float: left;
+    display: flex;
+}
+
+.promo1{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(248, 120, 70);
+    position: relative;
+    left: 65px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+.promo2{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(248, 120, 70);
+    position: relative;
+    left: 65px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.promo2 img {
+    width: 250px;
+    height: 200px;
+    float: left;
+}
+
+.promo1 h3{
+    position: relative;
+    left: 20px;
+    font-size: 40px;
+    color: aliceblue;
+}
+.promo1 img{
+    width: 100px;
+    
+}
+
+.teks {
+    position: relative;
+    left: -50px;
+    color: aliceblue;
+}
+.poin2 {
+    
+    
+    padding: 40px 80px;
+   
+    width: 100%;
+    
+    
+    
+}
+.poin2 h1{
+  position: relative;
+  top: 20px;
+}
+
+.produk1{
+    position: relative;
+    top: px;
+    background-color: aliceblue;
+    padding: 8px;
+    width: 232px;
+    height: 300px;
+    margin:12px;
+    float: left;
+}
+.produk1 div{
+    position: relative;
+   
+    line-height: 50%;
+    padding: 8px 4px 0px;
+    
+}
+.produk1 img{
+    width: 227px;
+    height: 200px;
+    text-align: center;
+    padding: 5px;
+}
+.produk1 div harga {
+    font-size: 26px;
+}
+.produk1 div h5{
+    padding: 0%;
+}
+
+.footer{
+    background-color: rgb(248, 120, 70);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 2000px;
+    
+}
+.footer h1{
+    text-align: center;
+    margin-bottom: 0px;
+    color: aliceblue;
+}
+.footer h4{
+    text-align: center;
+    margin-top: 0px;
+    color: aliceblue;
+}
+.footer input{
+    width: 300px;
+    height: 30px;
+    margin: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+.footer button {
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    color: rgb(248, 120, 70);
+    font-size: 15px;
+}
+
